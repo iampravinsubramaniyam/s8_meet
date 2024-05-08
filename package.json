@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@deepgram/sdk": "^3.2.0"
+  },
+  "name": "meet_clg_project",
+  "description": "A real time messaging & video calling. Youtube tutorial will be upload in the comming days.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
